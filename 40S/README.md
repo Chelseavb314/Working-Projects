@@ -6,14 +6,13 @@ Project Name: classesBalloon
 Description:  
 Used customized JOptionPane dialogs to make the balloon do different things.
 ------------------------------------------------------------------------------
-------------------------------------------------------------------------------
 Project Name: collectionsAssignment
 
 Description:  
 Solved a problem involving the removal of even indices from an array with the
 use of a Linked List.
 ------------------------------------------------------------------------------
-------------------------------------------------------------------------------
+
 Project Name: funPetShop
 
 Description:  
