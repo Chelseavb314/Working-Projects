@@ -4,7 +4,7 @@ A repository of projects that were assigned from my highschool computer science 
 
 # Table of Contents
 
-* [Grade 10 Projects](https://github.com/ChelseaBahsler/Working-Projects/blob/master/README.md#grade-10-projects-2017---2018--c--windows-visual-studio-ide-)
+* [Grade 10 Projects](https://github.com/ChelseaBahsler/Working-Projects/blob/master/README.md#grade-10-projects)
 
 * [Grade 11 Projects](grade-11-projects)
 
@@ -20,25 +20,25 @@ Listed below is the...
 * Table of Contents for that grade folder
 
 ### Grade 10 Projects
-#####(2017 - 2018) | C# | Windows Visual Studio IDE |
+**(2017 - 2018) | C# | Windows Visual Studio IDE |**
 * project 1
 * project 2
 * Final Project 
 
 ## Grade 11 Projects 
-#####(2018 - 2019) | Java (ant)| Netbeans 8.2 |
+**(2018 - 2019) | Java (ant)| Netbeans 8.2 |**
 * project 1
 * project 2
 * Final Project 
 
 ## Grade 12 Projects
-#####(2019 - 2020) | Java (ant)| Netbeans 12 |
+**(2019 - 2020) | Java (ant)| Netbeans 12 |**
 * project 1
 * project 2
 * Final Project 
 
 ## Grade 12 IB Projects
-#####(2019 - 2020) | Java (ant)| Netbeans 12 |
+**(2019 - 2020) | Java (ant)| Netbeans 12 |**
 * project 1
 * project 2
 * Final Project 
