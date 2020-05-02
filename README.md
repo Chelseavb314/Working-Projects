@@ -4,7 +4,7 @@ A repository of projects that were assigned from my highschool computer science 
 
 # Table of Contents
 
-* [Grade 10 Projects](grade-10-projects)
+* [Grade 10 Projects](https://github.com/ChelseaBahsler/Working-Projects/blob/master/README.md#grade-10-projects)
 
 * [Grade 11 Projects](grade-11-projects)
 
