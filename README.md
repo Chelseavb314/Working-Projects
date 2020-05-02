@@ -2,6 +2,13 @@
 
 A repository of projects that were assigned from my highschool computer science courses.
 
+# Table of Contents
+
+* [Grade 10 Projects](#grade-10-projects)
+
+# <a name="grade-10-projects"></a>Grade 10 Projects
+* "J. Jesus. P. Aguinaga" <admin@listforks.com>
+
 ## More Information
 
 Listed below is the...
