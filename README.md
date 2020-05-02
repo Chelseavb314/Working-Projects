@@ -8,7 +8,7 @@ A repository of projects that were assigned from my highschool computer science 
 
 * [Grade 11 Projects](https://github.com/ChelseaBahsler/Working-Projects/blob/master/README.md#grade-11-projects)
 
-* [Grade 12 Projects](grade-12-projects)
+* [Grade 12 Projects](https://github.com/ChelseaBahsler/Working-Projects/blob/master/README.md#grade-12-projects)
 
 * [Grade 12 IB Projects](grade-12-IB-projects)
 
