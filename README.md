@@ -4,11 +4,13 @@ A repository of projects that were assigned from my highschool computer science 
 
 # Table of Contents
 
-* [Grade 10 Projects](#grade-10-projects)
+* [Grade 10 Projects](grade-10-projects)
 
-* "J. Jesus. P. Aguinaga" <admin@listforks.com>
+* [Grade 11 Projects](grade-11-projects)
 
-## More Information
+* [Grade 12 Projects](grade-12-projects)
+
+* [Grade 12 IB Projects](grade-12-IB-projects)
 
 Listed below is the...
 * grade level
@@ -17,18 +19,22 @@ Listed below is the...
 * coding application
 * Table of Contents for that grade folder
 
-## Grade 9
-* 2016 - 2017
-* (N/A)
-* (N/A)  
-* (N/A)
+### Grade 10 Projects (2017 - 2018) | C# | Windows Visual Studio IDE |
+* project 1
+* project 2
+* Final Project 
 
-## Grade 10
-* 2017 - 2018
-* C#
-* Windows Visual Studio IDE
+## Grade 11 Projects (2018 - 2019) | Java (ant)| Netbeans 8.2 |
+* project 1
+* project 2
+* Final Project 
 
+## Grade 12 Projects (2019 - 2020) | Java (ant)| Netbeans 12 |
+* project 1
+* project 2
+* Final Project 
 
-**Table of Contents**
-
-Final Project 
+## Grade 12 IB Projects (2019 - 2020) | Java (ant)| Netbeans 12 |
+* project 1
+* project 2
+* Final Project 
