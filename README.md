@@ -22,6 +22,7 @@ Listed below is the...
 * C#
 * Windows Visual Studio IDE
 
-  **Table of Contents**
 
-  Final Project 
+**Table of Contents**
+
+Final Project 
