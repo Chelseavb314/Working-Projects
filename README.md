@@ -1,6 +1,6 @@
 # Working-Projects
 
-A repository of projects that were assigned from my highschool computer science courses.
+A repository of assignments and final projects that were assigned from my highschool computer science courses.
 
 # Table of Contents
 
@@ -10,19 +10,17 @@ A repository of projects that were assigned from my highschool computer science 
 
 * [Grade 12 Projects](https://github.com/ChelseaBahsler/Working-Projects/blob/master/README.md#grade-12-projects)
 
-  * [Grade 12 IB Projects](https://github.com/ChelseaBahsler/Working-Projects/blob/master/README.md#grade-12-ib-projects)
+* [Final Projects](https://github.com/ChelseaBahsler/Working-Projects/blob/master/README.md#grade-12-ib-projects)
 
 ## Grade 10 Projects
 *Windows Visual Studio IDE | C# | (2017 - 2018)*
 * project 1
-* project 2
-* Final Project 
+* project 2 
 
 ## Grade 11 Projects 
 *Netbeans 8.2 | Java (ant) | (2018 - 2019)*
 * project 1
-* project 2
-* Final Project 
+* project 2 
 
 ## Grade 12 Projects
 *Netbeans 12 | Java (ant)| (2019 - 2020)*
@@ -65,8 +63,8 @@ A completed assignment based around the subject of recursions and the
 application of the McCarthy91 function.
 
 
-### Grade 12 IB Projects
-*Netbeans 12 | Java (ant)| (2019 - 2020)*
-* project 1
-* project 2
-* Final Project 
+## Final Projects
+* Pokemon Simulator *Grade 10* 
+* Pong Inspired Minigame *Grade 11*
+* Ace Attorney Fan-game *Grade 12*
+* Seating Plan Generator *Grade 12 IB*
