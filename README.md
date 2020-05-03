@@ -2,26 +2,36 @@
 
 A repository of projects that were assigned from my highschool computer science courses.
 
-## More Information
+# Table of Contents
 
-Listed below is the...
-* grade level
-* year the course was taken
-* coding language
-* coding application
-* Table of Contents for that grade folder
+* [Grade 10 Projects](https://github.com/ChelseaBahsler/Working-Projects/blob/master/README.md#grade-10-projects)
 
-## Grade 9
-* 2016 - 2017
-* (N/A)
-* (N/A)  
-* (N/A)
+* [Grade 11 Projects](https://github.com/ChelseaBahsler/Working-Projects/blob/master/README.md#grade-11-projects)
 
-## Grade 10
-* 2017 - 2018
-* C#
-* Windows Visual Studio IDE
+* [Grade 12 Projects](https://github.com/ChelseaBahsler/Working-Projects/blob/master/README.md#grade-12-projects)
 
- **Table of Contents**
+  * [Grade 12 IB Projects](https://github.com/ChelseaBahsler/Working-Projects/blob/master/README.md#grade-12-ib-projects)
 
- Final Project 
+## Grade 10 Projects
+*Windows Visual Studio IDE | C# | (2017 - 2018)*
+* project 1
+* project 2
+* Final Project 
+
+## Grade 11 Projects 
+*Netbeans 8.2 | Java (ant) | (2018 - 2019)*
+* project 1
+* project 2
+* Final Project 
+
+## Grade 12 Projects
+*Netbeans 12 | Java (ant)| (2019 - 2020)*
+* project 1
+* project 2
+* Final Project 
+
+## Grade 12 IB Projects
+*Netbeans 12 | Java (ant)| (2019 - 2020)*
+* project 1
+* project 2
+* Final Project 
