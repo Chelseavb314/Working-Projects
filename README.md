@@ -26,11 +26,46 @@ A repository of projects that were assigned from my highschool computer science 
 
 ## Grade 12 Projects
 *Netbeans 12 | Java (ant)| (2019 - 2020)*
-* project 1
-* project 2
-* Final Project 
 
-## Grade 12 IB Projects
+Netbeans Java-ant assignments I completed in my Grade 12 year of Computer Science.
+
+### Assignnments: Table of Contents
+
+*  [classesBalloon](link)
+
+*  [collectionsAssignment](link)
+
+*  [funPetShop](link)
+
+*  [MetricConversion](link)
+
+*  [recursions](link)
+
+#### classesBalloon
+
+A re-worked assignment from the grade 11 course.
+Various JOptionPane dialogs are used to make a balloon do different things via a JOptionPane combo box prompt.
+
+#### collectionsAssignment
+
+A collections unit problem involving the removal of even indices from an array by using a Linked List.
+
+#### funPetShop
+
+An Advanced Classes assignment centered around the topic of a Pet Shop.
+
+#### MetricConversion
+
+A re-worked Grade 11 project that was created to re-gain familiarity with 
+java that was lost over the summer break.  
+
+#### recursions 
+
+A completed assignment based around the subject of recursions and the 
+application of the McCarthy91 function.
+
+
+### Grade 12 IB Projects
 *Netbeans 12 | Java (ant)| (2019 - 2020)*
 * project 1
 * project 2
