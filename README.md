@@ -10,7 +10,7 @@ A repository of assignments and final projects that were assigned from my highsc
 
 * [Grade 12 Projects](https://github.com/ChelseaBahsler/Working-Projects/blob/master/README.md#grade-12-projects)
 
-* [Final Projects](https://github.com/ChelseaBahsler/Working-Projects/blob/master/README.md#grade-12-ib-projects)
+* [Final Projects](https://github.com/ChelseaBahsler/Working-Projects/blob/master/README.md#final-projects)
 
 ## Grade 10 Projects
 *Windows Visual Studio IDE | C# | (2017 - 2018)*
@@ -29,15 +29,15 @@ Netbeans Java-ant assignments I completed in my Grade 12 year of Computer Scienc
 
 ### Assignnments: Table of Contents
 
-*  [classesBalloon](link)
+*  [classesBalloon](https://github.com/ChelseaBahsler/Working-Projects/blob/master/README.md#classesballoon)
 
-*  [collectionsAssignment](link)
+*  [collectionsAssignment](https://github.com/ChelseaBahsler/Working-Projects/blob/master/README.md#collectionsassignment)
 
-*  [funPetShop](link)
+*  [funPetShop](https://github.com/ChelseaBahsler/Working-Projects/blob/master/README.md#funpetshop)
 
-*  [MetricConversion](link)
+*  [MetricConversion](https://github.com/ChelseaBahsler/Working-Projects/blob/master/README.md#metricconversion)
 
-*  [recursions](link)
+*  [recursions](https://github.com/ChelseaBahsler/Working-Projects/blob/master/README.md#recursions)
 
 #### classesBalloon
 
@@ -64,7 +64,11 @@ application of the McCarthy91 function.
 
 
 ## Final Projects
-* Pokemon Simulator *Grade 10* 
-* Pong Inspired Minigame *Grade 11*
-* Ace Attorney Fan-game *Grade 12*
-* Seating Plan Generator *Grade 12 IB*
+ 
+* Pokemon Simulator (*Grade 10*) 
+
+* Pong Inspired Minigame (*Grade 11*)
+
+* Ace Attorney Fan-game (*Grade 12*)
+
+* Seating Plan Generator (*Grade 12 IB*)
