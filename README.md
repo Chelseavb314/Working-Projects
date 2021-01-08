@@ -51,6 +51,5 @@ application of the McCarthy91 function.
 
 ## Final Projects
  
-* Ace Attorney Fan-game (*Grade 12*)
-
+* Showdown 30S - A Pong Inspired Game (*Grade 11*)
 * Seating Plan Generator (*Grade 12 IB*)
